@@ -1,0 +1,7 @@
+{
+  "name": "Cool boy ☺️",
+  "description": "A chill, powerful, and funny AI chatbot featuring Gemini 3 Pro, Flash Lite, Thinking mode, Imagen 4.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
